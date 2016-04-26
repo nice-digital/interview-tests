@@ -7,7 +7,7 @@ The interface does not need to persist the list between browser sessions or peer
 
 # Design
 
-![Simple Todo App Prototype Design Sample](https://raw.github.com/nhsevidence/InterviewTests/Frontend/master/todo.jpg "Design Prototype")
+![Simple Todo App Prototype Design Sample](https://raw.githubusercontent.com/nhsevidence/InterviewTests/master/Frontend/todo.jpg "Design Prototype")
 
 # Functionality
 
