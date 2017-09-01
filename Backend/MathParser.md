@@ -1,19 +1,19 @@
 # Interview Technical Assignment - Math Parser
 
-As part of the interview process, we require all candidates to submit a solution to a technical test.  We expect you to complete this as you would production code and be mindful of the practices and behaviours that NICE will be looking for - testing, design, craftsmanship etc.  I would suggest that spending a few hours on the code is more than sufficient to give us an idea of your approach and technical ability. We are more interested in how you approach the problem than a complete solution, if you are really pushed for time.
+As part of the interview process, we require all candidates to undertake a technical test so that we can assess your technical abilities.  We assess a number of things including the design aspect of your solution and your object oriented programming skills. While this is a small problem, we expect you to submit what you believe is “production-quality” code that you would be able to run, maintain and evolve. You don’t need to “gold plate” your solution, but we are looking for something more than a bare-bones algorithm.  You may not use any external libraries to solve this problem, but you may use external libraries or tools for building or testing purposes.  You should provide sufficient evidence that your solution is complete by, as a minimum, indicating that it works correctly against the supplied test data. Please note that you will be assessed on your judgment as well as your execution. 
 
 ===================
 
 # Instructions
-Implement a custom mathematical parser to take a string expression and compute its numerical value.
+Implement a custom maths parser to take a string expression and compute its numerical value.
 
-The parser must implement an order of precedence of left to right, brackets are used to explicitly denote precedence by grouping parts of an expression that should be evaluated first again left to right.
+Operators should be applied in order of precedence from left to right. An exception to this is brackets which are used to explicitly denote precedence by grouping parts of an expression that should be evaluated first.
 
 Rules:
 
 a = '+', b = '-', c = '*', d = '/', e = '(', f = ')'
 
-## Acceptance criteria
+## Test inputs
 
 ```
 Input: 3a2c4
@@ -33,8 +33,4 @@ Result: 990
 
 ```
 
-* Implement a solution in the language of your choice
-* _prove_ that it meets the acceptance criteria.
-* The supplied solution must compile (if required) and run on Windows 7.
 * Submit your solutions via email as a zip file (please add '.test' to the extension of the file so that it can get past email server filters, for example: 'mathparser.zip.test')
-* Please provide instructions explaining how to run your solution
