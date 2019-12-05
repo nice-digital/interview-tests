@@ -28,7 +28,7 @@ Submit your solutions via email as a zip file. Please remove any *node_modules* 
 
 Implement a styled interface to calculate equations with a single operator. It should:
 
-- have buttons for number 0-9 and the 4 operators
+- have buttons for numbers 0-9 and the 4 operators
 - a textbox for typing numbers and operators
 - an equals button to calculate the current equation
 - a list of previous run equations and their results.
