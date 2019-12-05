@@ -22,7 +22,7 @@ The details of the [the test](#the-test) are below but *please*:
 
 You won't have time to complete everything, but **that's OK**. We're more interested in your approach, thought process, application structure and where you stop, than a complete solution. For example what you prioritise or where you write tests and where you don't.
 
-Submit your solutions via email as a zip file. Please remove any *node_modules* folders and add *.test* to the file extensions so that it can get past email server filters (for example *calculator.zip.test*).
+Submit your solutions via email as a zip file. Please remove any *node_modules* folders and add *.test* to the file extension so that it can get past email server filters (for example *calculator.zip.test*).
 
 ## The test
 
