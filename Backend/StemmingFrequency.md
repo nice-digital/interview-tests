@@ -28,18 +28,18 @@ Please write code that processes the some input text to determine the frequency 
 
 *"Friends are friendlier friendlies that are friendly and classify the friendly classification class. Flowery flowers flow through following the flower flows."*
 
-Given the input text above, when asked for the following words, return the associated frequency count as specified below
+Given the input text above, when asked for the following words, return the associated frequency count of the stem of the word as specified below
 
 | Word             | Frequency |
 |------------------|---------- |
 | "following"      | 1         |
 | "flow"           | 2         |
-| "classification" | 1         |
-| "class"          | 1         |
+| "classification" | 3         |
+| "class"          | 3         |
 | "flower"         | 3         |
-| "friend"         | 4         |
-| "friendly"       | 4         |
-| "classes"        | 1         |
+| "friend"         | 5         |
+| "friendly"       | 5         |
+| "classes"        | 3         |
 
 ### Instructions
 
