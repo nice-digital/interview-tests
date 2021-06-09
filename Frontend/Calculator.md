@@ -20,7 +20,7 @@ The details of the [the brief](#the-brief) are below but _please_:
 - Provide your solution in **HTML, CSS and JavaScript**
   - Feel free to use a framework or view library (e.g. React, Angular, Vue)
 - Don't spend more than 4 hours
-- Write a couple of tests to test what you feel is the most important part of the app
+- Write a couple of tests that will interrogate what you feel is the most important part of your solution
 - Feel free to use NPM packages where appropriate.
 
 _We're looking for a real-world solution to the brief, not an academic ideal._
