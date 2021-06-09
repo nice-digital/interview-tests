@@ -2,7 +2,7 @@
 
 We ask all engineers to provide a solution to a short brief as part of our recruitment process at NICE. It's a great way for us to assess your technical abilities and help us understand the way you think about your development work.
 
-We'll anonymously review your solution before inviting you for interview. Your test would then also form part of the interview itself: we'll discuss your approach, code and tests.
+We'll anonymously review your solution before the interview. During the interview, we'll discuss your approach, code and tests.
 
 We look for a number of things when we're reviewing, including:
 
