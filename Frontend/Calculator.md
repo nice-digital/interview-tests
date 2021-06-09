@@ -11,6 +11,8 @@ We look for a number of things when we're reviewing, including:
 - Your choice of tooling and use of external libraries where appropriate
 - How you structure an application.
 
+---
+
 ## Your Submission
 
 The details of the [the brief](#the-brief) are below but _please_:
@@ -18,8 +20,8 @@ The details of the [the brief](#the-brief) are below but _please_:
 - Provide your solution in **HTML, CSS and JavaScript**
   - Feel free to use a framework or view library (e.g. React, Angular, Vue)
 - Don't spend more than 4 hours
-- Write appropriate tests given the time you have
-- Use NPM packages where appropriate.
+- Write a couple of tests to test what you feel is the most important part of the app
+- Feel free to use NPM packages where appropriate.
 
 _We're looking for a real-world solution to the brief, not an academic ideal._
 
@@ -29,11 +31,20 @@ We're more interested in your approach, thought process, application structure a
 
 Submit your solutions via email as a zip file. Please remove any _node_modules_ folders and add _.test_ to the file extension so that it can get past email server filters (for example _calculator.zip.test_).
 
+---
+
 ## The Brief
 
-Implement a styled interface to calculate equations with a single operator. It should:
+Create an interface to calculate equations with a single operator. Like a basic desk calculator it should:
 
 - have buttons for numbers 0-9 and the 4 operators
-- a textbox for typing numbers and operators
+- a textbox for seeing what numbers and operators have been input
 - an equals button to calculate the current equation
-- a list of previously run calculations and their results.
+- a list of previously run calculations and their results
+- be fully usable with a keyboard and ideally usable with a sceenreader.
+
+### Tips
+
+- Don't focus too much on how it looks. We value usability and accessibility over design.
+- Pull in any libraries or supporting packages to speed up your development.
+- Just do what you can. We appreciate that people are busy and unpaid work like this can be an inconvenience. We're not looking for a calculator app to ship, we're just looking to get an insight to the way you think, how you approach creating a solution, and how you speak about and understand your work.
