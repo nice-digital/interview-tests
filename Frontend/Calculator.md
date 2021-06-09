@@ -27,9 +27,9 @@ _We're looking for a real-world solution to the brief, not an academic ideal._
 
 You won't have time to complete everything, but **that's OK**!
 
-We're more interested in your approach, thought process, application structure and where you stop, than a complete solution. For example what you prioritise or where you write tests and where you don't. We can discuss where you might go next with your solution in the interview setting.
+We're more interested in your approach, thought process, application structure and where you stop, than a complete solution. For example what you prioritise or where you write tests and where you don't. We can discuss where you might go next with your solution in the interview.
 
-Submit your solutions via email as a zip file. Please remove any _node_modules_ folders and add _.test_ to the file extension so that it can get past email server filters (for example _calculator.zip.test_).
+**Please submit your solution by sending us a link to a git repo we can access publically. Github, Gitlab or Bitbucket are fine, as long as we can access your codebase.**
 
 ---
 
