@@ -6,14 +6,15 @@ As part of the interview/procurement process, we require all candidates to under
 
 Your solution will be assessed before the interview but will also form part of the interview process. You'll be asked questions about your solution and the decisions you've made.
 
-- provide your solution in **C#**
+- provide your solution in either **C#** or **Javascript (nodejs)**
 - this test helps us to assess
-- - your knowledge of the C# programming language
+- - your knowledge of a programming language
 - - your knowledge of software design principles
+- - your knowledge of test driven development
 - we expect you to submit what you believe is “production-quality” code that you would be able to run, maintain and evolve
 - you don’t need to “gold plate” your solution, but we are looking for something more than a bare-bones algorithm - we suggest spending a few hours.
 
-Submit your solutions via email as a zip file (please add '.test' to the extension of the file so that it can get past email server filters, for example: *stemming.zip.test*).
+Submit your solutions via a github repo that is shared directly with the recruiting team
 
 ## The test
 
@@ -44,5 +45,4 @@ Given the input text above, when asked for the following words, return the assoc
 ### Instructions
 
 - Don't use stemming libraries
-- implement a solution in .NET and C#
 - prove your solution meets the acceptance criteria.
