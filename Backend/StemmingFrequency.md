@@ -1,4 +1,4 @@
-# Interview Technical Assignment - Stemming/frequency
+# Technical Assignment - Stemming/frequency
 
 ## Background
 
