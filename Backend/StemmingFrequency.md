@@ -8,11 +8,11 @@ Your solution will be assessed before the interview but will also form part of t
 
 - provide your solution in either **C#** or **Javascript (nodejs)**
 - this test helps us to assess
-- - your knowledge of a programming language
-- - your knowledge of software design principles
-- - your knowledge of test driven development
+  - your knowledge of a programming language
+  - your knowledge of software design principles
+  - your knowledge of test driven development
 - we expect you to submit what you believe is “production-quality” code that you would be able to run, maintain and evolve
-- you don’t need to “gold plate” your solution, but we are looking for something more than a bare-bones algorithm - we suggest spending a few hours.
+- you don’t need to “gold plate” your solution, but we are looking for something more than a bare-bones algorithm - we suggest spending a couple of hours.
 
 Submit your solutions via a github repo that is shared directly with the recruiting team
 
