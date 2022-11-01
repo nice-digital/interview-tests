@@ -14,7 +14,7 @@ Your solution will be assessed before the interview but will also form part of t
 - we expect you to submit what you believe is “production-quality” code that you would be able to run, maintain and evolve
 - you don’t need to “gold plate” your solution, but we are looking for something more than a bare-bones algorithm - we suggest spending a couple of hours.
 
-Submit your solutions via a github repo that is shared directly with the recruiting team
+Please submit your solution by emailing our recruitment team a link to your solution hosted in a web-based version control system of your choice (we use GitHub and recommend that, but others are fine)
 
 ## The test
 
